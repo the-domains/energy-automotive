@@ -1,3 +1,4 @@
+layout_spectrum: 0.9905404618475586
 typography_spectrum: 0.4938868891913444
 color:
   brandStrength: 0.9510165257379413
@@ -10,7 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.9905404618475586
 name: Energy & Automotive
-title: Renewable Energy & Automotive
-description: Integrating Sustainable Energy
